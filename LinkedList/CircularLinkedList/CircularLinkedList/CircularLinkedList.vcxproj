@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{40154ccf-f71e-4079-b307-235e4864c593}</ProjectGuid>
+    <ProjectGuid>{1f32d276-572d-4171-b10a-5ebb1e7c1621}</ProjectGuid>
     <RootNamespace>CircularLinkedList</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
